@@ -36,8 +36,8 @@ A modern Capture The Flag (CTF) platform built with Next.js, React, and PostgreS
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ctf-platform.git
-   cd ctf-platform
+   https://github.com/stringuers/CTF-Platform.git
+   cd CTF-Platform
    ```
 
 2. Install dependencies:
