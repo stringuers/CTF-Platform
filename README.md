@@ -67,12 +67,12 @@ The application will be available at `http://localhost:3000`.
 
 1. Build the Docker image:
    ```bash
-   docker build -t ctf-platform .
+   docker build -t CTF-Platform .
    ```
 
 2. Run the container:
    ```bash
-   docker run -p 3000:3000 ctf-platform
+   docker run -p 3000:3000 CTF-Platform
    ```
 
 ## Deployment
